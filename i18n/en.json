@@ -1,0 +1,90 @@
+{
+    "nav": {
+        "about": "About",
+        "menu": "Menu",
+        "visit": "Visit",
+        "contact": "Contact"
+    },
+    "hero": {
+        "eyebrow": "Wolfegg's Finest",
+        "title1": "Silk Road meets ",
+        "title_it": "Marble Way",
+        "desc": "Sri Lankan spice meets Italian tradition — in the heart of the Allgäu.",
+        "cta_menu": "View Menu",
+        "cta_visit": "Visit Us",
+        "open_status": "Open Now · Kitchen until 9 PM"
+    },
+    "strip": {
+        "club": "Inside Wolfegg Shooting Club",
+        "open": "Open Daily"
+    },
+    "about": {
+        "label": "Our Story",
+        "title1": "Two Cultures, ",
+        "title_it": "One Passion",
+        "body1": "Inside the Wolfegg Shooting Club, something special has emerged: a kitchen that connects two worlds. The spice of the Indian Ocean and the soul of Italy — not an experiment, but authentic fusion.",
+        "body2": "Prepared fresh every day, with ingredients we know and love. You can taste the difference.",
+        "pill1": "🌿 Fresh ingredients",
+        "pill2": "🍋 Daily fresh",
+        "pill3": "🤝 Family business",
+        "pill4": "🌶 Authentic spices",
+        "card_sl_title": "Sri Lanka",
+        "card_sl_desc": "Coconut, curry, cinnamon — the flavors of an island that supplied the world with spices.",
+        "card_it_title": "Italia",
+        "card_it_desc": "Pasta, risotto, dolce — cooking as a philosophy of life, handmade with heart and soul.",
+        "card_fusion_title": "Fusion",
+        "card_fusion_desc": "Where both meet, something completely unique is created — right here in the Allgäu."
+    },
+    "menu": {
+        "label": "Menu",
+        "title": "A Journey on Your Plate",
+        "sub": "From Kottu Roti to Carbonara — discover our menu.",
+        "food": "Dishes",
+        "drinks": "Drinks & Beers",
+        "note": "All prices in Euro incl. VAT · Full menu available on site."
+    },
+    "location": {
+        "label": "Visit Us",
+        "title1": "In the heart of ",
+        "title_it": "Wolfegg",
+        "hours_label": "Opening Hours",
+        "hours_desc": "Open daily<br>Kitchen until 9:00 PM",
+        "address_label": "Address",
+        "address_desc": "Rötenbacher Str. 33<br>88364 Wolfegg, Germany<br>Inside the Shooting Club",
+        "contact_label": "Contact",
+        "route_btn": "→ Plan Route"
+    },
+    "footer": {
+        "imprint": "Imprint",
+        "privacy": "Privacy Policy",
+        "copy": "© 2025 Sri Lanka ET Italy · Wolfegg"
+    },
+    "legal": {
+        "back": "Back to Home"
+    },
+    "impressum": {
+        "title": "Imprint",
+        "email": "Email",
+        "section1": {
+            "title": "Information according to § 5 TMG"
+        },
+        "section2": {
+            "title": "Contact"
+        },
+        "section3": {
+            "title": "Responsible for content according to § 55 Abs. 2 RStV"
+        },
+        "section4": {
+            "title": "Liability for Content",
+            "content": "As a service provider, we are responsible for our own content on these pages in accordance with § 7 Para. 1 TMG under general law. According to §§ 8 to 10 TMG, however, we as a service provider are not obliged to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity."
+        },
+        "section5": {
+            "title": "Liability for Links",
+            "content": "Our website contains links to external third-party websites over whose content we have no influence. Therefore, we cannot assume any liability for this external content. The respective provider or operator of the pages is always responsible for the content of the linked pages."
+        },
+        "section6": {
+            "title": "Copyright",
+            "content": "The content and works created by the site operators on these pages are subject to German copyright law. The reproduction, editing, distribution and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator."
+        }
+    }
+}

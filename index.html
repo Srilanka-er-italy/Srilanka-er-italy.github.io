@@ -1,208 +1,49 @@
 <!DOCTYPE html>
 <html lang="de">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title data-i18n="meta.title">Sri Lanka ET Italy - Fusion redefined. Wolfegg's finest.</title>
-    <meta name="description" data-i18n="meta.description" content="Sri Lanka ET Italy - High-end Fusion Restaurant im Schützenverein Wolfegg. The Silk Road & The Marble Way.">
-    <link rel="stylesheet" href="styles.css">
+    <title>Sri Lanka ET Italy — Wolfegg's Finest</title>
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Styling -->
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- Favicon placeholder (suggested) -->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+        content="Sri Lanka ET Italy in Wolfegg — Die perfekte Fusion aus sri-lankischen Gewürzen und italienischer Küchentradition.">
+    <meta name="keywords" content="Sri Lanka, Italy, Restaurant, Wolfegg, Fusion Food, Allgäu, Kottu Roti, Pasta">
 </head>
+
 <body>
-    <!-- Navigation Bar -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <span class="logo-text">Sri Lanka ET Italy</span>
-            </div>
-            <div class="nav-links">
-                <a href="#hero" class="nav-link" data-i18n="nav.home">Home</a>
-                <a href="#menu" class="nav-link" data-i18n="nav.menu">Menu</a>
-                <a href="#location" class="nav-link" data-i18n="nav.location">Location</a>
-                <a href="#contact" class="nav-link" data-i18n="nav.contact">Contact</a>
-            </div>
-            <div class="nav-actions">
-                <div class="language-switcher">
-                    <button class="lang-btn active" data-lang="de" aria-label="Deutsch">DE</button>
-                    <button class="lang-btn" data-lang="en" aria-label="English">EN</button>
-                </div>
-            </div>
-            <button class="mobile-menu-toggle" aria-label="Menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
-        </div>
-    </nav>
 
-    <!-- Hero Section -->
-    <section id="hero" class="hero">
-        <div class="hero-background">
-            <img src="https://github.com/user-attachments/assets/57d7c779-763b-443f-9ca3-8f16909f30c3" alt="Sri Lanka ET Italy" class="hero-image">
-            <div class="hero-overlay"></div>
-        </div>
-        <div class="hero-content">
-            <div class="hero-badge" data-i18n="hero.badge">Im Schützenverein Wolfegg</div>
-            <h1 class="hero-title">
-                <span class="title-line" data-i18n="hero.title1">Fusion redefined.</span>
-                <span class="title-line title-accent" data-i18n="hero.title2">Wolfegg's finest.</span>
-            </h1>
-            <p class="hero-subtitle" data-i18n="hero.subtitle">The Silk Road & The Marble Way</p>
-            <div class="hero-cta">
-                <a href="#menu" class="btn btn-primary" data-i18n="hero.cta1">Menü entdecken</a>
-                <a href="#location" class="btn btn-secondary" data-i18n="hero.cta2">Uns besuchen</a>
-            </div>
-            <div class="hero-info">
-                <div class="info-item">
-                    <svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                        <circle cx="12" cy="12" r="10"/>
-                        <polyline points="12 6 12 12 16 14"/>
-                    </svg>
-                    <span data-i18n="hero.hours">Geöffnet bis 21:00 Uhr</span>
-                </div>
-                <div class="info-item">
-                    <svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
-                        <circle cx="12" cy="10" r="3"/>
-                    </svg>
-                    <span>Rötenbacher Str. 33, Wolfegg</span>
-                </div>
-            </div>
-        </div>
-        <div class="scroll-indicator">
-            <span data-i18n="hero.scroll">Scroll</span>
-            <div class="scroll-arrow"></div>
-        </div>
-    </section>
+    <!-- Structure -->
+    <div id="nav-placeholder"></div>
+    <div id="hero-placeholder"></div>
+    <div id="about-placeholder"></div>
+    <div id="menu-placeholder"></div>
+    <div id="location-placeholder"></div>
+    <div id="footer-placeholder"></div>
 
-    <!-- Menu Showcase Section -->
-    <section id="menu" class="menu-showcase">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title" data-i18n="menu.title">Unsere Speisekarte</h2>
-                <p class="section-subtitle" data-i18n="menu.subtitle">Eine kulinarische Reise zwischen Sri Lanka und Italien</p>
-            </div>
-
-            <!-- Menu Images with Lightbox -->
-            <div class="menu-hero-image">
-                <img src="1.jpg" alt="Sri Lanka ET Italy Menu - Speisekarte" class="menu-image-clickable" onclick="openLightbox(this.src)">
-                <img src="2.jpg" alt="Sri Lanka ET Italy Menu - Getränke und Biere" class="menu-image-clickable" onclick="openLightbox(this.src)">
-            </div>
-
-            <div class="menu-cta">
-                <p class="menu-note" data-i18n="menu.note">Alle Preise verstehen sich in Euro. Weitere Informationen finden Sie auf unseren Menükarten vor Ort.</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Location Section -->
-    <section id="location" class="location-section">
-        <div class="container">
-            <div class="location-grid">
-                <div class="location-info">
-                    <h2 class="section-title" data-i18n="location.title">Besuchen Sie uns</h2>
-                    <p class="section-subtitle" data-i18n="location.subtitle">Im Herzen von Wolfegg</p>
-                    
-                    <div class="info-blocks">
-                        <div class="info-block">
-                            <svg class="block-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                <circle cx="12" cy="12" r="10"/>
-                                <polyline points="12 6 12 12 16 14"/>
-                            </svg>
-                            <h3 data-i18n="location.hours.title">Öffnungszeiten</h3>
-                            <p class="opening-status" data-i18n="location.hours.status">Jetzt geöffnet</p>
-                            <p data-i18n="location.hours.info">Geöffnet bis 21:00 Uhr<br>Warme Küche bis 21:00 Uhr</p>
-                        </div>
-
-                        <div class="info-block">
-                            <svg class="block-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
-                                <circle cx="12" cy="10" r="3"/>
-                            </svg>
-                            <h3 data-i18n="location.address.title">Adresse</h3>
-                            <p>Rötenbacher Str. 33<br>
-                            88364 Wolfegg<br>
-                            Deutschland</p>
-                        </div>
-
-                        <div class="info-block">
-                            <svg class="block-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-                                <polyline points="22,6 12,13 2,6"/>
-                            </svg>
-                            <h3 data-i18n="location.contact.title">Kontakt</h3>
-                            <p>
-                                <a href="mailto:srilankaetitaly@gmail.com" class="contact-link">srilankaetitaly@gmail.com</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="location-map">
-                    <div class="map-placeholder">
-                        <iframe 
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2677.5!2d9.7856!3d47.8256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b2e8d9e8d9e8d%3A0x9e8d9e8d9e8d9e8d!2sR%C3%B6tenbacher%20Str.%2033%2C%2088364%20Wolfegg%2C%20Deutschland!5e0!3m2!1sde!2sde!4v1234567890"
-                            width="100%" 
-                            height="100%" 
-                            style="border:0;filter:invert(90%) hue-rotate(180deg);" 
-                            allowfullscreen="" 
-                            loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade">
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer id="contact" class="footer">
-        <div class="container">
-            <div class="footer-grid">
-                <div class="footer-col">
-                    <h3 class="footer-title">Sri Lanka ET Italy</h3>
-                    <p class="footer-tagline" data-i18n="footer.tagline">The Silk Road & The Marble Way</p>
-                    <p class="footer-location">Im Schützenverein Wolfegg</p>
-                </div>
-
-                <div class="footer-col">
-                    <h4 data-i18n="footer.hours.title">Öffnungszeiten</h4>
-                    <p data-i18n="footer.hours.info">Geöffnet bis 22:00 Uhr<br>Warme Küche bis 22:00 Uhr</p>
-                </div>
-
-                <div class="footer-col">
-                    <h4 data-i18n="footer.contact.title">Kontakt</h4>
-                    <p>
-                        Rötenbacher Str. 33<br>
-                        88364 Wolfegg, Deutschland<br>
-                        <a href="mailto:srilankaetitaly@gmail.com" class="footer-link">srilankaetitaly@gmail.com</a>
-                    </p>
-                </div>
-
-                <div class="footer-col">
-                    <h4 data-i18n="footer.legal.title">Rechtliches</h4>
-                    <ul class="footer-links">
-                        <li><a href="impressum.html" class="footer-link" data-i18n="footer.legal.impressum">Impressum</a></li>
-                        <li><a href="datenschutz.html" class="footer-link" data-i18n="footer.legal.datenschutz">Datenschutzerklärung</a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="footer-bottom">
-                <p>&copy; <span id="current-year">2024</span> Sri Lanka ET Italy. <span data-i18n="footer.rights">Alle Rechte vorbehalten.</span></p>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Lightbox Modal -->
-    <div id="lightbox-modal" class="lightbox-modal" onclick="closeLightbox()">
-        <span class="lightbox-close">&times;</span>
-        <img id="lightbox-img" class="lightbox-content" onclick="event.stopPropagation()">
+    <!-- Lightbox for Menu -->
+    <div id="lightbox" class="lightbox">
+        <button class="lightbox-close">&times;</button>
+        <img src="" alt="Menu" class="lightbox-content">
     </div>
 
-    <script src="script.js"></script>
+    <!-- Scripts -->
+    <script type="module" src="js/main.js"></script>
+
 </body>
+
 </html>
