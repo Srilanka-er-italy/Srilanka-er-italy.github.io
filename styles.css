@@ -379,7 +379,7 @@ section {
    ============================================ */
 .menu-section {
     background: linear-gradient(to bottom, var(--obsidian-black), var(--deep-black));
-    padding-top: calc(var(--spacing-xxl) + 2rem);
+    padding-top: calc(var(--spacing-xxl) + var(--spacing-md));
 }
 
 .menu-tabs {
@@ -956,7 +956,7 @@ section {
     }
 
     .menu-section {
-        padding-top: calc(var(--spacing-xl) + 3rem);
+        padding-top: calc(var(--spacing-xl) + var(--spacing-lg));
     }
 
     .menu-tabs {
