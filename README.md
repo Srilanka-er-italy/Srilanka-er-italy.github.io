@@ -47,7 +47,7 @@ Language switching is seamless without page reload, preserving user experience.
 
 #### Location Section
 - **Status Indicator**: Live "open/closed" status with pulsing green dot
-- **Opening Hours**: Display current hours (open until 21:00 Uhr)
+- **Opening Hours**: Display current hours (open until 22:00 Uhr)
 - **Address Information**: Im Schützenverein Wolfegg, 88364 Wolfegg
 - **Map Integration**: Dark mode Google Maps iframe
 - **Elegant Card Design**: Information presented in rounded, bordered cards

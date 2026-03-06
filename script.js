@@ -24,7 +24,7 @@ const translations = {
             subtitle: "The Silk Road & The Marble Way",
             cta1: "Menü entdecken",
             cta2: "Uns besuchen",
-            hours: "Geöffnet von 11:00 bis 21:00 Uhr",
+            hours: "Geöffnet von 11:00 bis 22:00 Uhr",
             scroll: "Scrollen"
         },
         menu: {
@@ -81,7 +81,7 @@ const translations = {
             hours: {
                 title: "Öffnungszeiten",
                 status: "Jetzt geöffnet",
-                info: "Täglich von 11:00 bis 21:00 Uhr<br>Warme Küche bis 21:00 Uhr"
+                info: "Täglich von 11:00 bis 22:00 Uhr<br>Warme Küche bis 22:00 Uhr"
             },
             address: {
                 title: "Adresse"
@@ -94,7 +94,7 @@ const translations = {
             tagline: "The Silk Road & The Marble Way",
             hours: {
                 title: "Öffnungszeiten",
-                info: "Täglich von 11:00 bis 21:00 Uhr<br>Warme Küche bis 21:00 Uhr"
+                info: "Täglich von 11:00 bis 22:00 Uhr<br>Warme Küche bis 22:00 Uhr"
             },
             contact: {
                 title: "Kontakt"
@@ -125,7 +125,7 @@ const translations = {
             subtitle: "The Silk Road & The Marble Way",
             cta1: "Discover Menu",
             cta2: "Visit Us",
-            hours: "Open from 11:00 AM to 9:00 PM",
+            hours: "Open from 11:00 AM to 10:00 PM",
             scroll: "Scroll"
         },
         menu: {
@@ -182,7 +182,7 @@ const translations = {
             hours: {
                 title: "Opening Hours",
                 status: "Now open",
-                info: "Daily from 11:00 AM to 9:00 PM<br>Hot food until 9:00 PM"
+                info: "Daily from 11:00 AM to 10:00 PM<br>Hot food until 10:00 PM"
             },
             address: {
                 title: "Address"
@@ -195,7 +195,7 @@ const translations = {
             tagline: "The Silk Road & The Marble Way",
             hours: {
                 title: "Opening Hours",
-                info: "Daily from 11:00 AM to 9:00 PM<br>Hot food until 9:00 PM"
+                info: "Daily from 11:00 AM to 10:00 PM<br>Hot food until 10:00 PM"
             },
             contact: {
                 title: "Contact"
