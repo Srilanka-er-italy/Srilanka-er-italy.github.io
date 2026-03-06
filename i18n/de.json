@@ -1,0 +1,141 @@
+{
+    "nav": {
+        "about": "Über uns",
+        "menu": "Speisekarte",
+        "visit": "Besuchen",
+        "contact": "Kontakt"
+    },
+    "hero": {
+        "eyebrow": "Wolfegg's Finest",
+        "title1": "Seidenstraße trifft ",
+        "title_it": "Marmorstraße",
+        "desc": "Sri-lankische Gewürzkunst trifft auf italienische Küchentradition — im Herzen des Allgäus.",
+        "cta_menu": "Speisekarte ansehen",
+        "cta_visit": "Uns besuchen",
+        "open_status": "Jetzt geöffnet · Warme Küche bis 21:00 Uhr"
+    },
+    "strip": {
+        "club": "Im Schützenverein Wolfegg",
+        "open": "Täglich geöffnet"
+    },
+    "about": {
+        "label": "Unsere Geschichte",
+        "title1": "Zwei Kulturen, ",
+        "title_it": "eine Leidenschaft",
+        "body1": "Im Schützenverein Wolfegg ist etwas Besonderes entstanden: eine Küche, die zwei Welten verbindet. Die Würze des Indischen Ozeans and die Seele Italiens — kein Experiment, sondern echte Fusion.",
+        "body2": "Jeden Tag frisch zubereitet, mit Zutaten, die wir kennen und lieben. Das schmeckt man.",
+        "pill1": "🌿 Frische Zutaten",
+        "pill2": "🍋 Täglich frisch",
+        "pill3": "🤝 Familienbetrieb",
+        "pill4": "🌶 Authentische Gewürze",
+        "card_sl_title": "Sri Lanka",
+        "card_sl_desc": "Kokos, Curry, Zimt — die Aromen einer Insel, die die Welt mit Gewürzen versorgte.",
+        "card_it_title": "Italia",
+        "card_it_desc": "Pasta, Risotto, Dolce — Küche als Lebensphilosophie, handgemacht mit Herzblut.",
+        "card_fusion_title": "Fusion",
+        "card_fusion_desc": "Wo sich beide treffen, entsteht etwas völlig Einzigartiges — mitten im Allgäu."
+    },
+    "menu": {
+        "label": "Speisekarte",
+        "title": "Eine Reise auf dem Teller",
+        "sub": "Von Kottu Roti bis Carbonara — entdecken Sie unsere Karte.",
+        "food": "Speisen",
+        "drinks": "Getränke & Biere",
+        "note": "Alle Preise in Euro inkl. MwSt. · Vollständige Karte vor Ort erhältlich."
+    },
+    "location": {
+        "label": "Besuchen Sie uns",
+        "title1": "Mitten in ",
+        "title_it": "Wolfegg",
+        "hours_label": "Öffnungszeiten",
+        "hours_desc": "Täglich geöffnet<br>Warme Küche bis 21:00 Uhr",
+        "address_label": "Adresse",
+        "address_desc": "Rötenbacher Str. 33<br>88364 Wolfegg, Deutschland<br>Im Schützenverein",
+        "contact_label": "Kontakt",
+        "route_btn": "→ Route planen"
+    },
+    "footer": {
+        "imprint": "Impressum",
+        "privacy": "Datenschutz",
+        "copy": "© 2025 Sri Lanka ET Italy · Wolfegg"
+    },
+    "legal": {
+        "back": "Zurück zur Startseite"
+    },
+    "impressum": {
+        "title": "Impressum",
+        "email": "E-Mail",
+        "section1": {
+            "title": "Angaben gemäß § 5 TMG"
+        },
+        "section2": {
+            "title": "Kontakt"
+        },
+        "section3": {
+            "title": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV"
+        },
+        "section4": {
+            "title": "Haftung für Inhalte",
+            "content": "Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen."
+        },
+        "section5": {
+            "title": "Haftung für Links",
+            "content": "Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich."
+        },
+        "section6": {
+            "title": "Urheberrecht",
+            "content": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+        }
+    },
+    "datenschutz": {
+        "title": "Datenschutzerklärung",
+        "email": "E-Mail",
+        "section1": {
+            "title": "1. Datenschutz auf einen Blick",
+            "subtitle": "Allgemeine Hinweise",
+            "content": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung."
+        },
+        "section2": {
+            "title": "2. Verantwortliche Stelle",
+            "intro": "Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:",
+            "content": "Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet."
+        },
+        "section3": {
+            "title": "3. Datenerfassung auf dieser Website",
+            "subtitle": "Wie erfassen wir Ihre Daten?",
+            "content1": "Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben oder uns per E-Mail zusenden.",
+            "content2": "Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten."
+        },
+        "section4": {
+            "title": "Wofür nutzen wir Ihre Daten?",
+            "content": "Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden, sofern Sie dem zugestimmt haben."
+        },
+        "section5": {
+            "title": "Welche Rechte haben Sie bezüglich Ihrer Daten?",
+            "content": "Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen."
+        },
+        "section6": {
+            "title": "4. Hosting",
+            "content": "Diese Website wird auf GitHub Pages gehostet. Die Serverstandorte befinden sich in den USA und Europa. Beim Besuch der Website werden automatisch verschiedene Arten von Daten erfasst, wie z. B. IP-Adressen, Zugriffszeitpunkte und besuchte Seiten. Diese Daten werden zur Sicherstellung des Betriebs und zur Verbesserung der Website-Sicherheit verwendet."
+        },
+        "section7": {
+            "title": "5. Allgemeine Hinweise und Pflichtinformationen",
+            "subtitle": "Datenschutz",
+            "content": "Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Diese Website verwendet SSL- bzw. TLS-Verschlüsselung aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte."
+        },
+        "section8": {
+            "title": "6. Cookies",
+            "content1": "Diese Website verwendet ausschließlich technisch notwendige Cookies, die für den Betrieb der Website erforderlich sind. Diese Cookies speichern keine personenbezogenen Daten und werden automatisch gelöscht, wenn Sie Ihren Browser schließen oder nach Ablauf einer definierten Sitzung.",
+            "content2": "Die einzigen Cookies, die wir setzen, dienen ausschließlich dazu, Ihre Spracheinstellung zu speichern (localStorage), damit Sie nicht bei jedem Besuch erneut Ihre bevorzugte Sprache auswählen müssen."
+        },
+        "section9": {
+            "title": "7. Kontaktaufnahme",
+            "content": "Wenn Sie uns per E-Mail kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter. Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde."
+        },
+        "section10": {
+            "title": "8. Google Maps",
+            "content": "Diese Website nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Ireland Limited („Google\"), Gordon House, Barrow Street, Dublin 4, Irland. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP-Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar."
+        },
+        "date": "Stand: März 2024"
+    }
+}
