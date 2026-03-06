@@ -716,7 +716,7 @@ a {
 
 .menu-hero-image {
     width: 100%;
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto var(--spacing-xl) auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -737,10 +737,61 @@ a {
     border-radius: var(--radius-lg);
     border: 1px solid rgba(212, 175, 55, 0.2);
     transition: transform var(--transition-slow);
+    cursor: pointer;
 }
 
 .menu-hero-image img:hover {
-    transform: scale(1.02);
+    transform: scale(1.05);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Lightbox Modal Styles */
+.lightbox-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95);
+    justify-content: center;
+    align-items: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.lightbox-content {
+    max-width: 90%;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: var(--radius-md);
+    animation: zoomIn 0.3s ease;
+}
+
+.lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    z-index: 10000;
+}
+
+.lightbox-close:hover {
+    color: var(--gold);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes zoomIn {
+    from { transform: scale(0.8); }
+    to { transform: scale(1); }
 }
 
 .menu-grid {
