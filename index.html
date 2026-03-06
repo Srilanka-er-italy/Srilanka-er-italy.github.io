@@ -86,10 +86,10 @@
                 <p class="section-subtitle" data-i18n="menu.subtitle">Eine kulinarische Reise zwischen Sri Lanka und Italien</p>
             </div>
 
-            <!-- Single Menu Image -->
+            <!-- Menu Images with Lightbox -->
             <div class="menu-hero-image">
-                <img src="1.jpg" alt="Sri Lanka ET Italy Menu - Speisekarte">
-                <img src="2.jpg" alt="Sri Lanka ET Italy Menu - Getränke und Biere">
+                <img src="1.jpg" alt="Sri Lanka ET Italy Menu - Speisekarte" class="menu-image-clickable" onclick="openLightbox(this.src)">
+                <img src="2.jpg" alt="Sri Lanka ET Italy Menu - Getränke und Biere" class="menu-image-clickable" onclick="openLightbox(this.src)">
             </div>
 
             <div class="menu-cta">
@@ -196,6 +196,12 @@
             </div>
         </div>
     </footer>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox-modal" class="lightbox-modal" onclick="closeLightbox()">
+        <span class="lightbox-close">&times;</span>
+        <img id="lightbox-img" class="lightbox-content" onclick="event.stopPropagation()">
+    </div>
 
     <script src="script.js"></script>
 </body>
